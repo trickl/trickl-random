@@ -1,24 +1,17 @@
 Introduction
 ============
-This is a Java library that ...
+This is a Java library that some random algorithms based on the Colt RandomEngine.
 
 Downloads
 =========
-The library can be downloaded as a binary or source package from [https://github.com/gemstonetiger/trickl-matrix/downloads](https://github.com/gemstonetiger/trickl-matrix/downloads "Distribution download page").
+The library can be downloaded as a binary or source package from [https://github.com/gemstonetiger/trickl-random/downloads](https://github.com/gemstonetiger/trickl-random/downloads "Distribution download page").
 
-The source can be also retrieved straight from the Git repository: `git clone git@github.com:gemstonetiger/trickl-matrix.git`.
+The source can be also retrieved straight from the Git repository: `git clone git@github.com:gemstonetiger/trickl-random.git`.
 
 Features
 ========
-
-Requirements
-------------
+A shuffler algorithm with the same semantics of Collections.shuffle.
 
 License and conditions of use
 =============================
-
-The wrapper program is available under GNU General Public License (see file `license-gpl.txt` in the distribution package for the text of the license).
-
-Example usage
-=============
-
+The program is available under GNU General Public License (see file `license-gpl.txt` in the distribution package for the text of the license).
