@@ -86,7 +86,7 @@
   </reporting>
   <scm>
     <url>https://github.com/trickl/trickl-random</url>
-    <connection>scm:git:ssh://git@github.com/trickl/trickl-random.git</connection>
+    <connection>scm:git://github.com/trickl/trickl-random.git</connection>
   </scm>
   <dependencies>
     <dependency>
